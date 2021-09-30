@@ -1,0 +1,13 @@
+{
+  "name": "comp229-m2021-week2",
+  "version": "0.0.1",
+  "description": "Demo Project",
+  "main": "index.js",
+  "author": "Lester Dan Goze",
+  "license": "ISC",
+  "scripts": 
+  {
+    "start": "node index.js"
+  }
+
+}
